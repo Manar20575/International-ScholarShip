@@ -1,11 +1,5 @@
 # ScholarShip
-<html>
-<head>
-</head>
-<body>
-
 <h2>HTML Table</h2>
-
 <table>
   <tr>
     <th>Uni</th>
@@ -20,6 +14,4 @@
     <td><a src = "https://crmweb-100902.campusnexus.cloud/OnlineApplication">Apply<a/></td>
   </tr>
 </table>
-</body>
-</html>
 
