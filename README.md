@@ -1,5 +1,4 @@
 # ScholarShip
-<h2>HTML Table</h2>
 <table>
   <tr>
     <th>Uni</th>
