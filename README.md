@@ -1,5 +1,4 @@
 # ScholarShip
-<!DOCTYPE html>
 <html>
 <head>
 <style>
