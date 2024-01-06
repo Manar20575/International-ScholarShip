@@ -8,9 +8,15 @@
   </tr>
   <tr>
     <td>Mohamed bin Zayed University of Artificial Intelligence</td>
-    <td><a href = "https://mbzuai.ac.ae/">Master / PHD</a></td>
+    <td><a href = "https://mbzuai.ac.ae/">Master / PHP</a></td>
     <td>31st March 2024</td>
     <td><a href = "https://crmweb-100902.campusnexus.cloud/OnlineApplication">Apply<a/></td>
+  </tr>
+      <tr>
+    <td>University of Tabuk</td>
+    <td><a href = "https://www.ut.edu.sa/ar/Pages/default.aspx">Bachelor / Master/ PHP</a></td>
+    <td> 4th March 2024</td>
+    <td><a href = "https://myut.ut.edu.sa/ut/ui/guest/application_online/index/typeApplicationOnlineIndex.faces">Not Yet<a/></td>
   </tr>
 </table>
 
