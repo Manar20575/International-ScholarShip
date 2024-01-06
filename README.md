@@ -19,7 +19,7 @@
     <td><a href = "https://myut.ut.edu.sa/ut/ui/guest/application_online/index/typeApplicationOnlineIndex.faces">Not Yet<a/></td>
   </tr>
   <tr>
-    <td>AKF ISP.</td>
+    <td>AKF ISP.mmmmmmmmmmmm</td>
     <td><a href = "https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships">AKF ISP prefers the applicant to have a minimum of 2/3 years of working experience.</a></td>
     <td></td>
     <td><a href = "https://myut.ut.edu.sa/ut/ui/guest/application_online/index/typeApplicationOnlineIndex.faces">Contacts by Country for details <a/></td>
