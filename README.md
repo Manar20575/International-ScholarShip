@@ -19,6 +19,12 @@
     <td><a href = "https://myut.ut.edu.sa/ut/ui/guest/application_online/index/typeApplicationOnlineIndex.faces">Not Yet<a/></td>
   </tr>
   <tr>
+    <td> TurkiyeBurslari Graduate Scholarship Programme</td>
+    <td><a href = "https://tbbs.turkiyeburslari.gov.tr/">Bachelor / Master/ PHD</a></td>
+    <td> 20 Feb 2024</td>
+    <td><a href = "https://tbbs.turkiyeburslari.gov.tr/">Apply<a/></td>
+  </tr>
+  <tr>
     <td>AKF ISP.</td>
     <td><a href = "https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships">AKF ISP prefers the applicant to have a minimum of 2/3 years of working experience.</a></td>
     <td></td>
