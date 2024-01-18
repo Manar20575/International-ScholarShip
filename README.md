@@ -19,7 +19,7 @@
     <td><a href = "https://myut.ut.edu.sa/ut/ui/guest/application_online/index/typeApplicationOnlineIndex.faces">Not Yet<a/></td>
   </tr>
   <tr>
-    <td> TurkiyeBurslari Graduate Scholarship Programme</td>
+    <td> TurkiyeBurslari Scholarships Programme</td>
     <td><a href = "https://tbbs.turkiyeburslari.gov.tr/">Bachelor / Master/ PHD</a></td>
     <td> 20 Feb 2024</td>
     <td><a href = "https://tbbs.turkiyeburslari.gov.tr/">Apply<a/></td>
