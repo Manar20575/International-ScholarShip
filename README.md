@@ -30,5 +30,11 @@
     <td></td>
     <td><a href = "https://myut.ut.edu.sa/ut/ui/guest/application_online/index/typeApplicationOnlineIndex.faces">Contacts by Country for details <a/></td>
   </tr>
+  <tr>
+    <td> Australia Awards Scholarshipe </td>
+    <td><a href = "[https://tbbs.turkiyeburslari.gov.tr">Bachelor / Master/ PHD</a></td>
+    <td> 30 April 2024</td>
+    <td><a href = "https://tbbs.turkiyeburslari.gov.tr/">Apply<a/></td>
+  </tr>
 </table>
 
