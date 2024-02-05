@@ -36,5 +36,11 @@
     <td> 30 April 2024</td>
     <td><a href = "https://oasis.dfat.gov.au/">Apply<a/></td>
   </tr>
+<tr>
+    <td> Fulbright Scholarship 2024-2025 </td>
+    <td><a href = "https://apply.iie.org/account/login?r=https%3a%2f%2fapply.iie.org%2fapply%2ffrm%3ff832852e-ae54-4fa4-9e14-27101142852f&cookie=1" > Master</a></td>
+    <td> 30 may 2024</td>
+    <td><a href ="https://apply.iie.org/account/login?r=https%3a%2f%2fapply.iie.org%2fapply%2ffrm%3ff832852e-ae54-4fa4-9e14-27101142852f&cookie=1"<a/></td>
+  </tr>
 </table>
 
