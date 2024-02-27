@@ -22,7 +22,7 @@
     <td> TurkiyeBurslari Scholarships Programme</td>
     <td><a href = "https://tbbs.turkiyeburslari.gov.tr/">Bachelor / Master/ PHD</a></td>
     <td> 20 Feb 2024</td>
-    <td><a href = "#">Apply<a/></td>
+    <td><p href = "#">Apply<p/></td>
   </tr>
   <tr>
     <td>AKF ISP.</td>
